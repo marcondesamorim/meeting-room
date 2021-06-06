@@ -8,11 +8,11 @@
 		<version>2.3.11.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.digital.crud.saladereuniao</groupId>
-	<artifactId>saladereuniao</artifactId>
+	<groupId>com.digital.meetingroom</groupId>
+	<artifactId>meetingroom</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>saladereuniao</name>
-	<description>Demo das salas de reunião </description>
+	<name>meetingroom</name>
+	<description>App metting room </description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>

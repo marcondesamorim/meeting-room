@@ -14,7 +14,6 @@ import { UpdateRoomComponent } from './update-room/update-room.component';
     CreateRoomComponent,
     UpdateRoomComponent,
     RoomDetailsComponent,
-    RoomListComponent,
     RoomListComponent
   ],
   imports: [

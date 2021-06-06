@@ -1,8 +1,8 @@
-package com.digital.crud.saladereuniao.controller;
+package com.digital.meetingroom.controller;
 
-import com.digital.crud.saladereuniao.exception.ResourceNotFoundException;
-import com.digital.crud.saladereuniao.model.Room;
-import com.digital.crud.saladereuniao.repository.RoomRepository;
+import com.digital.meetingroom.exception.ResourceNotFoundException;
+import com.digital.meetingroom.model.Room;
+import com.digital.meetingroom.repository.RoomRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.digital.crud.saladereuniao.exception;
+package com.digital.meetingroom.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

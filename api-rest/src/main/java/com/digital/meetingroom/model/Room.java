@@ -1,4 +1,4 @@
-package com.digital.crud.saladereuniao.model;
+package com.digital.meetingroom.model;
 
 import lombok.*;
 import javax.persistence.Column;

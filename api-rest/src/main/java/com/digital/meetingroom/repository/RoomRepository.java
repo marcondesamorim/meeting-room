@@ -1,6 +1,6 @@
-package com.digital.crud.saladereuniao.repository;
+package com.digital.meetingroom.repository;
 
-import com.digital.crud.saladereuniao.model.Room;
+import com.digital.meetingroom.model.Room;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
